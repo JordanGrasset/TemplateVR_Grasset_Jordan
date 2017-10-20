@@ -7,7 +7,10 @@
 		{
 			"Name": "TemplateVR_GJ",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
